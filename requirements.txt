@@ -2,3 +2,5 @@ telethon
 requests
 flask
 gunicorn
+cloudscraper
+beautifulsoup4
